@@ -18,25 +18,25 @@ I thrive on:
 
 ## 🚀 Projects & Highlights
 
-1. **Web3-Integrated Blockchain Game**
+1. **Web3-Integrated Blockchain Game** 
    - Built a secure and modular dApp using **Solidity** and **React**.
    - Integrated Web3 wallet connectivity for seamless user interactions.
    - Implemented efficient database storage with **MongoDB** and **Redis**.
    - Designed and developed a matchmaking system using **TCP/UDP protocols**.
 
 2. **Shopping Website Application**
-   - Developed a fully functional e-commerce platform with **React** and **Node.js**.
+   - Developed a fully functional e-commerce platform with **HTML/CSS/JS**.
    - Integrated real-time user support with a WebSocket-powered chat feature.
    - Designed an intuitive user interface to enhance shopping experiences.
    - Focused on database optimization for product and order management.
 
-3. **Business CRM Application**
+3. **Business CRM Application** (Comming Soon)
    - Created a robust **Customer Relationship Management (CRM)** system using **React** and **Node.js**.
    - Designed workflows for managing customer interactions, leads, and data insights.
    - Implemented **SQL** for secure and efficient database management.
    - Developed advanced reporting tools and analytics dashboards.
 
-4. **Portfolio Website**
+4. **Portfolio Website** (comming Soon)
    - Designed and developed a responsive personal portfolio showcasing projects and skills.
    - Leveraged modern web design principles for a sleek, user-friendly interface.
    - Emphasized **SEO best practices** to improve online visibility and reach.
@@ -44,7 +44,7 @@ I thrive on:
 ---
 
 ## 🌟 What I’m Working On
-- Expanding my knowledge in **Decentralized Applications (Dapps)**, **Cryptography** and **Autonomous Systems**.
+- Expanding my knowledge in **Decentralized Applications (Dapps)**, **Cryptography** and **Autonomous Programs**.
 - Building an innovative **full-stack applications** with React, Node.js, and Solidity.
 - Mastering advanced **network protocols** and **distributed systems**.
 
