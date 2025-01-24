@@ -2,12 +2,30 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Aaron**, a passionate **Software Engineer** with a focus on **Blockchain Technology**, **Centralized Applications**, and **Modular Autonomous Programs**. I specialize in building efficient, scalable, and maintainable software solutions with a strong emphasis on **UI Development** and **Database Management**.
+<div style="display: flex; flex-wrap: wrap;">
 
-I thrive on:
-- Crafting seamless **user experiences** with **React** and modern JavaScript frameworks.
-- Designing and analyzing **databases** for optimal performance.
-- Exploring innovative approaches in **Web Development** and **Blockchain-based applications**.
+
+<!-- Image Container -->
+  <div style="flex: 1 1 30%; text-align: center; margin-bottom: 20px;">
+    <img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" 	alt="Midnight Coder GIF" style="width: 80%; max-width: 200px; border-radius: 10px;">
+  </div>
+
+  <div style="flex: 1 1 100%; max-width: 600px; text-align: left;">
+    <h2>Hi there! I'm Aaron</h2>
+    <p>
+      I'm a passionate <strong>Software Engineer</strong> with a focus on <strong>Blockchain 	Technology</strong>, 
+      <strong>Centralized Applications</strong>, and <strong>Modular Autonomous Programs</strong>. I 	specialize in building efficient, 
+      scalable, and maintainable software solutions with a strong emphasis on <strong>UI 	Development</strong> and <strong>Database Management</strong>.
+    </p>
+    <h3>I thrive on:</h3>
+    <ul>
+      <li>Crafting seamless user experiences with React and modern JavaScript frameworks.</li>
+      <li>Designing and analyzing databases for optimal performance.</li>
+      <li>Exploring innovative approaches in Web Development and Blockchain-based applications.</li>
+    </ul>
+  </div>
+
+</div>
 
 ---
 
