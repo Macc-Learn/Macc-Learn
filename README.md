@@ -11,10 +11,8 @@
     <h2>Hi there! I'm Aaron</h2>
     <p>
       I'm a versatile <strong>Full-Stack Software Engineer</strong> with expertise in 
-  <strong>Decentralized Applications</strong>, <strong>Modern Web Development</strong>, and 
-  <strong>Database Management</strong>. I excel at crafting seamless 
-  <strong>user interfaces</strong>, implementing robust <strong>backend solutions</strong>, and optimizing 
-  <strong>database performance</strong> to deliver scalable and efficient applications.
+  <strong>Decentralized Applications, Encryption, Modern Web Development</strong>, and 
+  <strong>Database Management</strong>.Most of the time, you'll find me aiming to build secure applications that are truly decentralized and autonomous, while still accommodating standard centralized applications when needed. Additionally, I have a rich history in game development, where I honed skills in interactive design and performance optimization
     </p>
     <h3>I thrive on:</h3>
     <ul>
@@ -61,15 +59,6 @@
 
 ---
 
-## 🌟 What I’m Working On
-- Expanding my knowledge in **Decentralized Applications (Dapps)**, **Cryptography** and **Autonomous Programs**.
-- Building an innovative **full-stack applications** with React, Node.js, and Solidity.
-- Mastering advanced **network protocols** and **distributed systems**.
-
----
-
 ## 📫 Let's Connect
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
 - **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- **Email**: youremail@example.com
 
