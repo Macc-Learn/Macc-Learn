@@ -40,11 +40,12 @@
    - Implemented efficient database storage with **MongoDB** and **Redis**.
    - Designed and developed a matchmaking system using **TCP/UDP protocols**.
 
+
 2. **Shopping Website Application**
-   - Developed a fully functional e-commerce platform with **HTML/CSS/JS**.
-   - Integrated real-time user support with a WebSocket-powered chat feature.
-   - Designed an intuitive user interface to enhance shopping experiences.
-   - Focused on database optimization for product and order management.
+   - **Description**: A fully functional e-commerce platform, with an intuitive user interface to enhance shopping experiences.
+   - **Live Demo: [Explore the app](https://github.com/your-username/shopping-app)**
+   - **Technologies**: React, Node.js, WebSockets, SQL.
+
 
 3. **Business CRM Application** (Comming Soon)
    - Created a robust **Customer Relationship Management (CRM)** system using **React** and **Node.js**.
@@ -52,13 +53,14 @@
    - Implemented **SQL** for secure and efficient database management.
    - Developed advanced reporting tools and analytics dashboards.
 
+
 4. **Portfolio Website** (comming Soon)
    - Designed and developed a responsive personal portfolio showcasing projects and skills.
    - Leveraged modern web design principles for a sleek, user-friendly interface.
    - Emphasized **SEO best practices** to improve online visibility and reach.
 
+
 ---
 
 ## 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-
