@@ -35,29 +35,27 @@
 ## 🚀 Projects & Highlights
 
 1. **Web3-Integrated Blockchain Game** 
-   - Built a secure and modular dApp using **Solidity** and **React**.
-   - Integrated Web3 wallet connectivity for seamless user interactions.
-   - Implemented efficient database storage with **MongoDB** and **Redis**.
-   - Designed and developed a matchmaking system using **TCP/UDP protocols**.
+   - **Description**: a secure and modular dApp using **Solidity** and **React**, Integrated Web3 wallet connectivity for seamless user interactions, with a matchmaking system using **TCP/UDP protocols**.
+   - **Live Demo**: (Comming Soon)
+   - **Technologies**: React, Node.Js, WebSockets, UDP, MongoDB, Redis, EthersJs, Socket.io
 
 
 2. **Shopping Website Application**
    - **Description**: A fully functional e-commerce platform, with an intuitive user interface to enhance shopping experiences.
    - **Live Demo: [Explore the app](https://github.com/your-username/shopping-app)**
-   - **Technologies**: React, Node.js, WebSockets, SQL.
+   - **Technologies**: HTML, CSS, Javascript.
 
 
-3. **Business CRM Application** (Comming Soon)
-   - Created a robust **Customer Relationship Management (CRM)** system using **React** and **Node.js**.
-   - Designed workflows for managing customer interactions, leads, and data insights.
-   - Implemented **SQL** for secure and efficient database management.
-   - Developed advanced reporting tools and analytics dashboards.
+3. **Business CRM Application**
+   - **Description**: a robust **Customer Relationship Management (CRM)** system using **React** and **Node.js**. Designed for managing customer interactions, leads, and data insights.
+   - **Live Demo**: (Comming Soon)
+   - **Technologies**: React, Node.js, HTML, CSS, Javascript, SQL
 
 
-4. **Portfolio Website** (comming Soon)
-   - Designed and developed a responsive personal portfolio showcasing projects and skills.
-   - Leveraged modern web design principles for a sleek, user-friendly interface.
-   - Emphasized **SEO best practices** to improve online visibility and reach.
+4. **Portfolio Website**
+   - **Description**: a responsive personal portfolio showcasing projects and skills, Leveraging modern web design principles for a sleek, user-friendly interface.
+   - **Live Demo**: (Comming Soon)
+   - **Technologies**: HTML, CSS, Javascript.
 
 
 ---
