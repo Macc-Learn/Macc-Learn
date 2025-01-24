@@ -1,7 +1,4 @@
-# Aaron's GitHub Profile
-
-## 👨‍💻 About Me
-
+# Bio
 <div style="display: flex; flex-wrap: wrap;">
 
 
@@ -13,15 +10,18 @@
   <div style="flex: 1 1 100%; max-width: 600px; text-align: left;">
     <h2>Hi there! I'm Aaron</h2>
     <p>
-      I'm a passionate <strong>Software Engineer</strong> with a focus on <strong>Blockchain 	Technology</strong>, 
-      <strong>Centralized Applications</strong>, and <strong>Modular Autonomous Programs</strong>. I 	specialize in building efficient, 
-      scalable, and maintainable software solutions with a strong emphasis on <strong>UI 	Development</strong> and <strong>Database Management</strong>.
+      I'm a versatile <strong>Full-Stack Software Engineer</strong> with expertise in 
+  <strong>Decentralized Applications</strong>, <strong>Modern Web Development</strong>, and 
+  <strong>Database Management</strong>. I excel at crafting seamless 
+  <strong>user interfaces</strong>, implementing robust <strong>backend solutions</strong>, and optimizing 
+  <strong>database performance</strong> to deliver scalable and efficient applications.
     </p>
     <h3>I thrive on:</h3>
     <ul>
       <li>Crafting seamless user experiences with React and modern JavaScript frameworks.</li>
       <li>Designing and analyzing databases for optimal performance.</li>
       <li>Exploring innovative approaches in Web Development and Blockchain-based applications.</li>
+      <li>Constantly studying new User Interface Designs.</li>
     </ul>
   </div>
 
