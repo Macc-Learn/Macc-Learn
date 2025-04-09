@@ -49,14 +49,7 @@
 3. **Business CRM Application**
    - **Description**: a robust **Customer Relationship Management (CRM)** system using **React** and **Node.js**. Designed for managing customer interactions, leads, and data insights.
    - **Live Demo**: (Comming Soon)
-   - **Technologies**: React, Node.js, HTML, CSS, Javascript, SQL
-
-
-4. **Portfolio Website**
-   - **Description**: a responsive personal portfolio showcasing projects and skills, Leveraging modern web design principles for a sleek, user-friendly interface.
-   - **Live Demo**: (Comming Soon)
-   - **Technologies**: HTML, CSS, Javascript.
-
+   - **Technologies**: React, Node.js, HTML, CSS, Javascript, MongoDB
 
 ---
 
