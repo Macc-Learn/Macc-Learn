@@ -54,4 +54,4 @@
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- **LinkedIn**: [A. Davis](https://www.linkedin.com/in/a-davis-9a4a301a3/)
