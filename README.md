@@ -34,22 +34,22 @@
 
 ## 🚀 Projects & Highlights
 
-1. **Web3-Integrated Blockchain Game** 
-   - **Description**: a secure and modular dApp using **Solidity** and **React**, Integrated Web3 wallet connectivity for seamless user interactions, with a matchmaking system using **TCP/UDP protocols**.
-   - **Live Demo**: (Comming Soon)
-   - **Technologies**: React, Node.Js, WebSockets, UDP, MongoDB, Redis, EthersJs, Socket.io
+1. **PiFi: Raspberry Pi App Runtime**
+   - **Description**: An open-source runtime that turns a Raspberry Pi into a self-hosted app platform without opening any router ports. PiFi starts, monitors, and stops apps as isolated processes, with token-secured local messaging, resource checks, crash recovery, and a CLI. Peer-to-peer WebRTC access from a phone is the next phase, aimed at a NAS-style file storage app.
+   - **Live Demo**: Coming soon (YouTube walkthrough)
+   - **Repo**: [PiFi_Runtime](https://github.com/Macc-Learn/PiFi_Runtime)
+   - **Technologies**: Node.js, TypeScript, WebSocket, HTTP, Raspberry Pi (WebRTC planned)
 
-
-2. **Shopping Website Application**
-   - **Description**: A fully functional e-commerce platform, with an intuitive user interface to enhance shopping experiences.
-   - **Live Demo: [Explore the app](https://github.com/your-username/shopping-app)**
-   - **Technologies**: HTML, CSS, Javascript.
-
+2. **Web3-Integrated Blockchain Game**
+   - **Description**: A secure and modular dApp using Solidity and React, with Web3 wallet connectivity for seamless user interactions and a matchmaking system using TCP/UDP protocols.
+   - **Live Demo**: Coming soon
+   - **Technologies**: React, Node.js, WebSockets, UDP, MongoDB, Redis, Ethers.js, Socket.io
 
 3. **Business CRM Application**
-   - **Description**: a robust **Customer Relationship Management (CRM)** system using **React** and **Node.js**. Designed for managing customer interactions, leads, and data insights.
-   - **Live Demo**: (Comming Soon)
-   - **Technologies**: React, Node.js, HTML, CSS, Javascript, MongoDB
+   - **Description**: A robust Customer Relationship Management (CRM) system using React and Node.js, designed for managing customer interactions, leads, and data insights.
+   - **Live Demo**: Coming soon
+   - **Technologies**: React, Node.js, HTML, CSS, JavaScript, MongoDB
+
 
 ---
 
